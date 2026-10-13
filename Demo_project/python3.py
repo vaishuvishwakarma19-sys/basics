@@ -1,3 +1,3 @@
-r = range(1,10,1)
+r = range(1,9,1)
 for i in r:
     print("hello")
